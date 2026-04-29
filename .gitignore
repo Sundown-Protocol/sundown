@@ -1,0 +1,27 @@
+# Compiled binaries
+sundown-node
+sundown-yp
+sundown-register
+node
+yellowpages
+register
+
+# Database files — contain encrypted private keys, never commit
+*.db
+*.db-wal
+*.db-shm
+
+# Update packages
+*.zip
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
